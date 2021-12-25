@@ -1,4 +1,5 @@
-[
+{
+  "result": [
   {
     "index": 0,
     "pria": "https://i.ibb.co/Xkp1wx5/3a15abeb6394.jpg",
@@ -199,4 +200,5 @@
     "pria": "https://telegra.ph/file/6f83e95b22c6b7becfbde.jpg",
     "wanita": "https://telegra.ph/file/3696a826d52a62ddf63f4.jpg"
   }
-]
+ ]
+}
